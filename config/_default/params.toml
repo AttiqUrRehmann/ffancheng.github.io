@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "Fan.Cheng@monash.edu"
+email = "atiqmarwat12@gmail.com"
 # phone = ""
-address = "[Department of Econometrics & Business Statistics, <br/>Monash University, <br/>900 Dandenong Rd, <br/>Caulfield East VIC 3145, <br/>Australia](https://www.monash.edu/business/ebs)"
+address = "[Department of Mathematics and Statistics, <br/>International Islamic University, <br/>900 Islamabad, <br/>Pakistan](https://www.iiu.edu.pk/?page_id=2076)"
 email_form = 0
 
 # Contact links
@@ -163,5 +163,5 @@ sharing = true
   [search.algolia]
     app_id = "7DBUCCCLHI"
     api_key = "7e4194ecf12ac9260b31845c6dd3a669"
-    index_name = "fancheng.me"
+    index_name = "Atiq.me"
     show_logo = false
